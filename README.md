@@ -9,5 +9,3 @@
   - **Operations**: Coordinate staffing and logistics to meet monthly demand patterns efficiently.
   - **Finance**: Use more reliable forecasts to set revenue targets and budgets.
   - **Scenario Planning**: Be ready for a ~10% demand surge with flexible plans.
-
-View full details in the [Business Interpretation PDF](Business_Interpretation_Time_Series_Forecasting.pdf).

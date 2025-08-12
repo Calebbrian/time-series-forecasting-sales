@@ -39,7 +39,7 @@ This project analyzes **5 years of monthly sales data (Jan 2018 – Dec 2022)** 
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 1. Integrate Prophet forecasts into a live dashboard for tracking.
 2. Update forecasts monthly with new sales data.
 3. Enhance model accuracy by adding holiday, campaign, and pricing data as regressors.
